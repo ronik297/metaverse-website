@@ -62,6 +62,7 @@ module.exports = {
     "react/no-array-index-key": 0,
     quotes: ["off"],
     "no-unused-vars": "off",
+    "react/jsx-wrap-multilines": "off",
     "jsx-a11y/anchor-is-valid": [
       "error",
       {
